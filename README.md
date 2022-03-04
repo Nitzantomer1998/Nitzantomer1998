@@ -8,14 +8,14 @@
 
  
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/Nitzantomer1998?tab=repositories)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **Nitzantomer1998@gmail.com**
-  
 - Proficient in C, C++, Python, Java and Assembly.
     
 - Would love to join and collaborate into new projects.
   
 - Speaks Hebrew, English, And soon enough Spanish :).
+
+- All of my projects are available  [here](https://github.com/Nitzantomer1998?tab=repositories)
+
+- Ask me about **anything**
+
+- How to reach me **Nitzantomer1998@gmail.com**  
