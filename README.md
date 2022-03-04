@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Nitzan Tomer </h1>
+<h3 align="center">Enthusiastic Software Engineering Student with a passion to progress</h3>
 
-<!--
-**Nitzantomer1998/Nitzantomer1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Nitzantomer1998" alt="Nitzantomer1998" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+- 👨‍💻 All of my projects are available  [here](https://github.com/Nitzantomer1998?tab=repositories)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **Nitzantomer1998@gmail.com**
+  
+- Proficient in C, C++, Python, Java and Assembly.
+    
+- Would love to join and collaborate into new projects.
+  
+- Speaks Hebrew, English, And soon enough Spanish :).
