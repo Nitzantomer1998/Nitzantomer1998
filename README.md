@@ -9,10 +9,10 @@
  
 
 - Proficient in C, C++, Python, Java and Assembly.
-    
-- Would love to join and collaborate into new projects.
   
-- Speaks Hebrew, English, And soon enough Spanish :).
+- Speaks Hebrew and English.
+ 
+ - Would love to join and collaborate into new projects.
 
 - All of my projects are available  [here](https://github.com/Nitzantomer1998?tab=repositories)
 
