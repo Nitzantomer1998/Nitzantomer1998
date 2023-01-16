@@ -1,25 +1,48 @@
+🔗 &nbsp;**Connect with me**
 
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Nitzan</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<a href="https://linkedin.com/in/nitzan-tomer" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        align="center"
+        alt="LinkedIn"
+        height="30"
+        width="40"
+   />
+</a>
+<a href="https://instagram.com/nitzan.tomer" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        align="center"
+        alt="Instagram"
+        height="30"
+        width="40"
+   />
+</a>
+<a href="https://leetcode.com/NitzanTomer" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        align="center"
+        alt="LeetCode"
+        height="30"
+        width="40"
+   />
+</a>
+<a href="https://stackoverflow.com/users/20373157/nitzantomer" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+        align="center"
+        alt="Stack Overflow"
+        height="30"
+        width="40"
+   />
+</a>
 
-<div align="center">
-  <div id="badges">
-   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-   </a>
-   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Nitzantomer1998&style=flat-square&color=blue" alt=""/>
-</div>
 
----
+
+
+📊 &nbsp;**This week I spent my time on**
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?Nitzantomer1998&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?Nitzantomer1998&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=00000000&text_color=777)](https://github.com/Nitzantomer1998/github-readme-stats)
+
 
 ### :man_technologist: About Me :
 - :telescope: I`m currently studying Software Engineering for my B.Sc degree.
@@ -48,9 +71,4 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitzantomer1998&theme=light)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998)](https://github.com/anuraghazra/github-readme-stats)
 
