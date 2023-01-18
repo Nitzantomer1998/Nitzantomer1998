@@ -1,7 +1,7 @@
 🔗 &nbsp;**Connect with me**
 
 <a href="https://linkedin.com/in/nitzan-tomer" target="blank">
-   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/Linkdin.png"
+   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/LinkedIn.png"
         align="center"
         alt="LinkedIn"
         height="40"
@@ -9,26 +9,26 @@
    />
 </a>
 <a href="https://instagram.com/nitzan.tomer" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/Instagram.png"
         align="center"
         alt="Instagram"
-        height="30"
+        height="40"
         width="40"
    />
 </a>
 <a href="https://leetcode.com/NitzanTomer" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/Leetcode.png"
         align="center"
         alt="LeetCode"
-        height="30"
+        height="40"
         width="40"
    />
 </a>
 <a href="https://stackoverflow.com/users/20373157/nitzantomer" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/StackOverflow.png"
         align="center"
         alt="Stack Overflow"
-        height="30"
+        height="40"
         width="40"
    />
 </a>
