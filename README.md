@@ -1,10 +1,10 @@
 🔗 &nbsp;**Connect with me**
 
 <a href="https://linkedin.com/in/nitzan-tomer" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/Linkdin.png"
         align="center"
         alt="LinkedIn"
-        height="30"
+        height="40"
         width="40"
    />
 </a>
@@ -94,7 +94,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998)](https://github.com/Nitzantomer1998/github-readme-stats)
 
 ![Snake animation](https://github.com/Nitzantomer1998/Nitzantomer1998/blob/output/github-contribution-grid-snake.svg)
 
