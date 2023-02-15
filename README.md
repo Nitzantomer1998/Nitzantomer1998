@@ -97,4 +97,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998)](https://github.com/Nitzantomer1998/github-readme-stats)
 
 ![Snake animation](https://github.com/Nitzantomer1998/Nitzantomer1998/blob/output/github-contribution-grid-snake.svg)
-
+.
