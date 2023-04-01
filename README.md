@@ -1,39 +1,5 @@
-🔗 &nbsp;**Connect with me**
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Nitzan%20Tomer%20&text2=%20&width=500&height=300)](https://github.com/Nitzantomer1998/svg-banners)
 
-<a href="https://linkedin.com/in/nitzan-tomer" target="blank">
-   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/LinkedIn.png"
-        align="center"
-        alt="LinkedIn"
-        height="40"
-        width="40"
-   />
-</a>
-<a href="https://instagram.com/nitzan.tomer" target="blank">
-   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/Instagram.png"
-        align="center"
-        alt="Instagram"
-        height="40"
-        width="40"
-   />
-</a>
-<a href="https://leetcode.com/NitzanTomer" target="blank">
-   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/Leetcode.png"
-        align="center"
-        alt="LeetCode"
-        height="40"
-        width="40"
-   />
-</a>
-<a href="https://stackoverflow.com/users/20373157/nitzantomer" target="blank">
-   <img src="https://github.com/Nitzantomer1998/Nitzantomer1998/blob/main/Icons/StackOverflow.png"
-        align="center"
-        alt="Stack Overflow"
-        height="40"
-        width="40"
-   />
-</a>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
    <summary>
       <b>✨About Me</b>
@@ -91,10 +57,48 @@
       </ul>
 </details>
 
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998)](https://github.com/Nitzantomer1998/github-readme-stats)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔗 &nbsp;**Connect with me**
+
+<a href="https://linkedin.com/in/nitzan-tomer" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        align="center"
+        alt="LinkedIn"
+        height="30"
+        width="40"
+   />
+</a>
+<a href="https://instagram.com/nitzan.tomer" target="blank">
+   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg"
+        align="center"
+        alt="Instagram"
+        height="30"
+        width="40"
+   />
+</a>
+<a href="https://leetcode.com/NitzanTomer" target="blank">
+   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
+        align="center"
+        alt="LeetCode"
+        height="30"
+        width="40"
+   />
+</a>
+<a href="https://stackoverflow.com/users/20373157/nitzantomer" target="blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+        align="center"
+        alt="Stack Overflow"
+        height="30"
+        width="40"
+   />
+</a>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Snake animation](https://github.com/Nitzantomer1998/Nitzantomer1998/blob/output/github-contribution-grid-snake.svg)
 .
