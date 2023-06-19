@@ -31,27 +31,26 @@
    
    <h3>Languages</h3>
       <ul>
-         <li>Favorite: Python</li>
+         <li>Favorite: Python | JavaScript</li>
          <li>Proficient: Java | C | C++</li>
          <li>Familiar: Assembly</li>
       </ul>
       
    <h3>Tools/IDE's</h3>
       <ul>
-         <li>Favorite: Pycharm | Intellij | CLion</li>
-         <li>Proficient: VScode | Visual Studio | Eclipse</li>
+         <li>Favorite: Visual Studio Code</li>
+         <li>Proficient: Visual Studio | Eclipse | PyCharm | Intellij</li>
       </ul>
   
    <h3>Databases</h3>
       <ul>
-         <li>Proficient: Postgres</li>
-         <li>Famillier: Mongodb</li>
+         <li>Proficient: Postgres | Mongodb</li>
       </ul>
       
    <h3>Currently Learning: Mainly Web Development</h3>
       <ul>
          <li>Language: JavaScript, CSS, HTML</li>
-         <li>Framework: Node.js, Bootstrap</li>
+         <li>Framework: Node.js, Bootstrap | TailWind</li>
          <li>Tool: CScode | Git | Ubuntu</li>
          <li>Database: MySQL</li>
       </ul>
@@ -81,14 +80,6 @@
         width="40"
    />
 </a>
-<a href="https://leetcode.com/NitzanTomer" target="blank">
-   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg"
-        align="center"
-        alt="LeetCode"
-        height="30"
-        width="40"
-   />
-</a>
 <a href="https://stackoverflow.com/users/20373157/nitzantomer" target="blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
         align="center"
@@ -100,5 +91,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Snake animation](https://github.com/Nitzantomer1998/Nitzantomer1998/blob/output/github-contribution-grid-snake.svg)
 .
