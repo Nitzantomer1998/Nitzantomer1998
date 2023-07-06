@@ -58,7 +58,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998)](https://github.com/Nitzantomer1998/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998&langs_count=10)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,22 +68,6 @@
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         align="center"
         alt="LinkedIn"
-        height="30"
-        width="40"
-   />
-</a>
-<a href="https://instagram.com/nitzan.tomer" target="blank">
-   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg"
-        align="center"
-        alt="Instagram"
-        height="30"
-        width="40"
-   />
-</a>
-<a href="https://stackoverflow.com/users/20373157/nitzantomer" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        align="center"
-        alt="Stack Overflow"
         height="30"
         width="40"
    />
