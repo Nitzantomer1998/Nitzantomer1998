@@ -5,22 +5,14 @@
       <b>✨About Me</b>
    </summary>
    
-   <h3>Hi, I'm Nitzan<br>a student in the 3rd year of my Software engineer B.Sc degree</h3>
+   <h3>Hi, I'm Nitzan</h3>
    
    <p>
-      I am a quick learner, a team player, and am always willing to take on new challenges.</br>I am
-      excited to start my professional career as a software engineer and am confident that I have the
-      skills and drive to make a valuable contribution to any team.
-   </p>
-   
-   <p>
-      I am a friendly person and a great team player, with a strong sense of humor that helps keep things
-      enjoyable and productive.
-   </p>
-  
-   <p>
-      In my spare time I love to hang out with my friends, catch some waves, stay active, and keep an eye
-      on the latest tech trends.
+      Enthusiastic software engineering student dedicated to Backend development, skilled
+      in Python, JavaScript, and Node.js. Actively deepening my expertise in Backend
+      development while occasionally diving into Frontend frameworks to gain a
+      comprehensive understanding of the parallel field. Committed to creating robust serverside logic, designing efficient databases, and building powerful APIs. Love to engages in
+      WhatsApp developers groups to help each other overcome problems.
    </p>
 </details>
 
@@ -31,28 +23,25 @@
    
    <h3>Languages</h3>
       <ul>
-         <li>Favorite: Python | JavaScript</li>
-         <li>Proficient: Java | C | C++</li>
-         <li>Familiar: Assembly</li>
+         <li>Favorite: Python | JavaScript | TypeScript</li>
+         <li>Familiar: Java | C | C++</li>
+      </ul>
+
+  <h3>Frameworks</h3>
+      <ul>
+         <li>Proficient: Node.js</li>
+         <li>Familiar: React</li>
       </ul>
       
-   <h3>Tools/IDE's</h3>
-      <ul>
-         <li>Favorite: Visual Studio Code</li>
-         <li>Proficient: Visual Studio | Eclipse | PyCharm | Intellij</li>
-      </ul>
-  
    <h3>Databases</h3>
       <ul>
          <li>Proficient: Postgres | Mongodb</li>
+         <li>Familiar: Firebase</li>
       </ul>
       
-   <h3>Currently Learning: Mainly Web Development</h3>
+   <h3>Currently Learning</h3>
       <ul>
-         <li>Language: JavaScript, CSS, HTML</li>
-         <li>Framework: Node.js, Bootstrap | TailWind</li>
-         <li>Tool: CScode | Git | Ubuntu</li>
-         <li>Database: MySQL</li>
+         <li>Docker | Kubernetes | AWS</li>
       </ul>
 </details>
 
