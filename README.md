@@ -8,11 +8,9 @@
    <h3>Hi, I'm Nitzan</h3>
    
    <p>
-      Enthusiastic software engineering student dedicated to Backend development, skilled
-      in Python, JavaScript, and Node.js. Actively deepening my expertise in Backend
-      development while occasionally diving into Frontend frameworks to gain a
-      comprehensive understanding of the parallel field. Committed to creating robust serverside logic, designing efficient databases, and building powerful APIs. Love to engages in
-      WhatsApp developers groups to help each other overcome problems.
+      Enthusiastic software engineering student dedicated to Backend development, skilled in Python & TypeScript.</br>
+      Actively deepening my expertise in Backend development while occasionally diving into Frontend frameworks to gain a comprehensive understanding of the parallel field.</br>
+      Love to engages in WhatsApp & Discord developers groups to help each other overcome problems.
    </p>
 </details>
 
@@ -29,7 +27,7 @@
 
   <h3>Frameworks</h3>
       <ul>
-         <li>Proficient: Node.js</li>
+         <li>Proficient: Django | Node.js</li>
          <li>Familiar: React</li>
       </ul>
       
