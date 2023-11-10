@@ -1,63 +1,76 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Nitzan%20Tomer%20&text2=%20&width=500&height=300)](https://github.com/Nitzantomer1998/svg-banners)
+<div>
+  <div>
+    <img src="https://github.com/Nitzantomer1998/ProjectsRepresentation/blob/main/Nitzantomer1998/LinkedInBanner.png" alt=" " />
+  </div>
 
-<details>
-   <summary>
-      <b>✨About Me</b>
-   </summary>
-   
-   <h3>Hi, I'm Nitzan</h3>
-   
-   <p>
-      Enthusiastic software engineering student dedicated to Backend development, skilled in Python & TypeScript.</br>
-      Actively deepening my expertise in Backend development while occasionally diving into Frontend frameworks to gain a comprehensive understanding of the parallel field.</br>
-      Love to engages in WhatsApp & Discord developers groups to help each other overcome problems.
-   </p>
-</details>
+  <br />
 
-<details>
-   <summary>
-      <b>🛠️Language and Framework</b>
-   </summary>
-   
-   <h3>Languages</h3>
-      <ul>
-         <li>Favorite: Python | JavaScript | TypeScript</li>
-         <li>Familiar: Java | C | C++</li>
-      </ul>
+  <details>
+    <summary>
+      <b>✨ About Me</b>
+    </summary>
+    
+  <h3>Hi, I'm Nitzan</h3>
+  <p>
+    Enthusiastic software engineering student dedicated to <b>Backend</b> development, skilled in <b>Django & Node.js</b>.</br>
+    Actively deepening my expertise in <b>Backend</b> development while occasionally diving into <b>Frontend</b> frameworks for a well-rounded perspective on the parallel field.</br>
+    Love to engage in <b>WhatsApp & Discord</b> developer groups to help each other and overcome problems.
+  </p>
+  </details>
+
+  <details>
+    <summary>
+      <b>🛠️ Stack</b>
+    </summary>
+
+  <h3>Languages</h3>
+  <ul>
+    <li>Experience in Python | JavaScript | Java</li>
+    <li>Familiar with TypeScript | C | C++</li>
+  </ul>
 
   <h3>Frameworks</h3>
-      <ul>
-         <li>Proficient: Django | Node.js</li>
-         <li>Familiar: React</li>
-      </ul>
-      
-   <h3>Databases</h3>
-      <ul>
-         <li>Proficient: Postgres | Mongodb</li>
-         <li>Familiar: Firebase</li>
-      </ul>
-      
-   <h3>Currently Learning</h3>
-      <ul>
-         <li>Docker | Kubernetes | AWS</li>
-      </ul>
-</details>
+  <ul>
+    <li>Experience in Django | Node.js</li>
+    <li>Familiar with Flask | Spring Boot | React</li>
+  </ul>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <h3>Databases</h3>
+  <ul>
+    <li>Experience in MongoDB | PostgreSQL</li>
+    <li>Familiar with Firebase</li>
+  </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998&langs_count=10)
+  <h3>Tools</h3>
+  <ul>
+    <li>Familier with Docker | Kubernetes</li>
+  </ul>
+  </details>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <details>
+    <summary>
+      <b>📅 Current Work</b>
+    </summary>
 
-🔗 &nbsp;**Connect with me**
+  <ul>
+    <li>  ✅ Check out my latest project <a href="https://camp-explorer.onrender.com/">CampExplorer</a> - Platform for travelers who love to explore campgrounds around the world!.</li>
+    <li>  🔭 I’m currently working on <a href="https://github.com/Nitzantomer1998/StudyBuddy">StudyBuddy</a> - Platform for global collaborative study session across diverse subjets!.</li>
+    <li>  📫 How to reach me Nitzantomer1998@gmail.com.</li>
+  </ul>
+  </details>
+  
+  ----------------------------------------------------------------------------------------------------------
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998&langs_count=10)
+  ----------------------------------------------------------------------------------------------------------
+  
+  🔗 &nbsp;**Connect with me**
 
-<a href="https://linkedin.com/in/nitzan-tomer" target="blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        align="center"
-        alt="LinkedIn"
-        height="30"
-        width="40"
-   />
-</a>
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  <a href="https://linkedin.com/in/nitzan-tomer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      align="center"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+</div>
