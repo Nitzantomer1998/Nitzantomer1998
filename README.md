@@ -54,7 +54,7 @@
 
   <ul>
     <li>  ✅ Check out my latest project <a href="https://camp-explorer.onrender.com/">CampExplorer</a> - Platform for travelers who love to explore campgrounds around the world!.</li>
-    <li>  🔭 I’m currently working on <a href="https://github.com/Nitzantomer1998/StudyBuddy">StudyBuddy</a> - Platform for global collaborative study session across diverse subjets!.</li>
+    <li>  🔭 I’m currently working on <a href="https://studybuddy-iqn6.onrender.com">StudyBuddy</a> - Platform for global collaborative study session across diverse subjets!.</li>
     <li>  📫 How to reach me Nitzantomer1998@gmail.com.</li>
   </ul>
   </details>
