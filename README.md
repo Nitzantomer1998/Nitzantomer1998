@@ -60,7 +60,7 @@
   </details>
   
   ----------------------------------------------------------------------------------------------------------
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998&langs_count=10)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitzantomer1998&langs_count=5)
   ----------------------------------------------------------------------------------------------------------
   
   🔗 &nbsp;**Connect with me**
